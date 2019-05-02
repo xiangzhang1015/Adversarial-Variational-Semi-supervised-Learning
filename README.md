@@ -7,7 +7,7 @@ TensorFlow == 1.3.0
 
 There only three python files while the AVAE.py is the main file and others are the definition of related functions. 
 
-All the datasets used in this paper are public available.
+All the datasets used in this paper are pretty large (ranging from 50-400 M) which are diffilut to upload to github. Fortunately, the datasets are public available and our paper basically used the raw data, so please access the original data in the following links. 
 
 PAMAP2: http://archive.ics.uci.edu/ml/datasets/pamap2+physical+activity+monitoring
 
@@ -17,5 +17,5 @@ MNIST: http://yann.lecun.com/exdb/mnist/
 
 Yelp: https://www.yelp.com/dataset
 
-The dataset is huge, using small subset for debugging is strongly recommended. There are very detail comments in the code in order to help understanding. Please let me know if you have any problem or have interesting ideas:  www.xiangzhang.info, 1015xzhang@gmail.com (Xiang Zhang)
+The datasets are huge, using small subset for debugging is strongly recommended. There are very detail comments in the code in order to help understanding. Please let me know if you have any problem or have interesting ideas:  www.xiangzhang.info, 1015xzhang@gmail.com (Xiang Zhang)
 
