@@ -2,7 +2,11 @@
 This is the reusable codes for KDD'19 research track paper: Adversarial Variational Embedding for Robust Semi-supervised Learning
 
 Dependency:
+
 Python == 2.7
+
+Numpy == 1.11.2
+
 TensorFlow == 1.3.0
 
 There only three python files while the AVAE.py is the main file and others are the definition of related functions. 
