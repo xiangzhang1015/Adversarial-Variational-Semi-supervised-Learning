@@ -17,6 +17,5 @@ MNIST: http://yann.lecun.com/exdb/mnist/
 
 Yelp: https://www.yelp.com/dataset
 
-
-More details will be added. There are very detail comments in the code in order to help understanding. Please let me know if you have any problems: www.xiangzhang.info, 1015xzhang@gmail.com
+The dataset is huge, using small subset for debugging is strongly recommended. There are very detail comments in the code in order to help understanding. Please let me know if you have any problem or have interesting ideas:  www.xiangzhang.info, 1015xzhang@gmail.com (Xiang Zhang)
 
