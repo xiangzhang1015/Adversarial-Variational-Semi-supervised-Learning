@@ -21,7 +21,8 @@ Here we take the PAMAP2 dataset as an example.
 """
 
 """"PAMAP2: Here we use a subset of PAMAP2, totally contains 120,000 samples for 5 subjects (the more subjects,
-the better but more computational. 20,000 samples for each sub, 51 features, 8 activities(0-7).
+the better but more computational. We select 5 most commonly used activities (Cycling, standing, walking, 
+lying, and running, labelled from 0 to4) as a subset for evaluation.12,000 samples for each sub, 51 features.
 The dataset is huge, using small subset for debugging is strongly recommended."""
 
 feature = sc.loadmat("/home/xiangzhang/scratch/AR_6p_8c.mat")
