@@ -1,5 +1,5 @@
 # Adversarial-Variational-Semi-supervised-Learning
-This is the reusable codes for KDD'19 research track paper: Adversarial Variational Embedding for Robust Semi-supervised Learning
+This is the reusable codes for KDD'19 research track paper: Adversarial Variational Embedding for Robust Semi-supervised Learning (https://arxiv.org/pdf/1905.02361.pdf)
 
 Dependency:
 
@@ -11,7 +11,7 @@ TensorFlow == 1.3.0
 
 There only three python files while the AVAE.py is the main file and others are the definition of related functions. 
 
-All the datasets used in this paper are pretty large (ranging from 50-400 M) which are diffilut to upload to github. Fortunately, the datasets are public available and our paper basically used the raw data, so please access the original data in the following links. 
+All the datasets used in this paper are pretty large which are diffilut to upload to github. Fortunately, the datasets are public available and our paper basically used the raw data, so please access the original data in the following links. 
 
 PAMAP2: http://archive.ics.uci.edu/ml/datasets/pamap2+physical+activity+monitoring
 
