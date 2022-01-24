@@ -12,7 +12,7 @@ In this paper, we present an effective and robust semi-supervised latent represe
 <img src="https://raw.githubusercontent.com/xiangzhang1015/Adversarial-Variational-Semi-supervised-Learning/master/structure%20of%20proposed%20Adversarial-Variational-Semi-supervised-Learning.PNG", width="400", align="center">
 </p>
 
-<center><b>Structure of the proposed AVAE model framework</b></center>
+<div align='center'><b>Structure of the proposed AVAE model framewor</b></div>
 
 
 ## Code
